@@ -15,4 +15,4 @@ Analyzed 50 students data from Hyderabad, Jamshoro, Latifabad region.
 ## Tools
 MySQL Workbench 8.0 | GitHub
 
-Created by Kalsoom Memon
+Created by Kalsoom khaskheli
